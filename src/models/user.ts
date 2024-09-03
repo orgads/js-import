@@ -1,5 +1,5 @@
 import mongoose, { Schema } from "mongoose";
-import { Gender } from "./genders.js";
+import { Gender } from "./genders";
 import { UserDocument, UserModel, UserSchema, UserObject } from "../interfaces/mongoose.gen.js";
 
 // UserSchema type
